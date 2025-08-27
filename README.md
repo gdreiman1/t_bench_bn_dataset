@@ -1,2 +1,2 @@
 # t_bench_bn_dataset
-Hosting a dataset for terminal bench task
+This repo hosts the dataset for the `bn-fit-modify` task in [terminal bench](https://github.com/laude-institute/terminal-bench)
